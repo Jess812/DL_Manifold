@@ -1,2 +1,2 @@
 # DL_Manifold
-Dictionary learning algorithm designed for Riemannian manifold. 
+DL_Manifold is an open source dictionary learning algorithm designed for Riemannian manifold. 
